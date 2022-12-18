@@ -1,7 +1,7 @@
-# Semantic Parsing
+# Question answering
 Final project for cs1460 (Computational Linguistics)
 - cs login: mlavrent
-- paper: [Language to Logical Form with Neural Attention](https://aclanthology.org/P16-1004.pdf)
+- paper: [A BERT Baseline for the Natural Questions](https://arxiv.org/pdf/1901.08634.pdf)
 
 ## How to run
 
