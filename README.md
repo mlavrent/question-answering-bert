@@ -24,7 +24,7 @@ The model takes about 8 minutes per epoch to train. Since I have it training for
 
 ## Results
 
-The model achieves the following results once fine-tuned:
+The model achieves the following results on the validation set once fine-tuned:
 ```
 precision: 0.64
 recall:    0.69
